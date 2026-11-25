@@ -21,5 +21,6 @@ if __name__ == "__main__":
         ),
         all_flow.to_deployment(
             name="ml-pipeline-manual",
+            
         ),
     )
